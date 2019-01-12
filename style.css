@@ -88,6 +88,8 @@ main {
   float: left;
   margin: 30px 30px 30px 150px;
   border-radius: 50%;
+  width: 20%;
+  height: 20%
 }
 
 #aboutme h2 p{
